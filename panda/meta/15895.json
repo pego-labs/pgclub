@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background a folk art form"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body black3"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes black"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye doubt"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair slicked back"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear dragon horn"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace lu zhishen"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth doubt"
+    },
+    {
+      "trait_type": "items",
+      "value": "items feather fan"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/15895.png",
+  "name": "PGMP #15895"
+}

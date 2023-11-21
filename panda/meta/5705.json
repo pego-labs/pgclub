@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background purple"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body black3"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes red"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye basic"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair pigtail"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear yellow"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace glod"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth earnest"
+    },
+    {
+      "trait_type": "items",
+      "value": "items a falk art form"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/5705.png",
+  "name": "PGMP #5705"
+}

@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background blue"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body green"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes colours"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye doubt"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hippy2"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear browm"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace monk sha"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth doubt"
+    },
+    {
+      "trait_type": "items",
+      "value": "items a falk art form"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/15836.png",
+  "name": "PGMP #15836"
+}

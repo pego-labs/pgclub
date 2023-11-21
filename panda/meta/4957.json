@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background red"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "basic clothes red"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye calmness"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair pigtail"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear browm"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace A nine colors"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth doubt"
+    },
+    {
+      "trait_type": "items",
+      "value": "items peking opera"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/4957.png",
+  "name": "PGMP #4957"
+}

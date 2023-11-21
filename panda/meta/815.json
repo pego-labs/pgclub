@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background facial makeup"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body red"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes yellow"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye doubt"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hippy3"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear glod"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace A nine colors"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth doubt"
+    },
+    {
+      "trait_type": "items",
+      "value": "items sudden urn hostile"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings shovel"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/815.png",
+  "name": "PGMP #815"
+}

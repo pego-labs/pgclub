@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background auspicous clouds"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body black1"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "basic clothes purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye basic"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hippy4"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear yellow"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace glod"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth doubt"
+    },
+    {
+      "trait_type": "items",
+      "value": "items yellow"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/16620.png",
+  "name": "PGMP #16620"
+}

@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background purple"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body purple"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes blue"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye doubt"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hippy3"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear red"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace lu zhishen"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth smile"
+    },
+    {
+      "trait_type": "items",
+      "value": "items peking opera"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings golden"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/15057.png",
+  "name": "PGMP #15057"
+}

@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background purple"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body yellow"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes blue"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye earnest"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hooligan"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear red"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace which zha"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth amazed"
+    },
+    {
+      "trait_type": "items",
+      "value": "items yellow"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/10194.png",
+  "name": "PGMP #10194"
+}

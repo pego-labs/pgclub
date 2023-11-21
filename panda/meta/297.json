@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background clap stick"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes black"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye doubt"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair pigtail"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear ox horn"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace monk sha"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth laugh"
+    },
+    {
+      "trait_type": "items",
+      "value": "items sudden urn hostile"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/297.png",
+  "name": "PGMP #297"
+}

@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background green"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body black1"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes black"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye earnest"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair slicked back"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear dragon horn"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace glod"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth amazed"
+    },
+    {
+      "trait_type": "items",
+      "value": "items feather fan"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings brown"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/7189.png",
+  "name": "PGMP #7189"
+}

@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background orange"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body black2"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "basic clothes red"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye basic"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hippy1"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear yellow"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace jia baoyu"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth amazed"
+    },
+    {
+      "trait_type": "items",
+      "value": "items sword"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings red"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/1853.png",
+  "name": "PGMP #1853"
+}

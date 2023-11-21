@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background clap stick"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body purple"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "basic clothes purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye amazed"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hooligan"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear ox horn"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace lu zhishen"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth earnest"
+    },
+    {
+      "trait_type": "items",
+      "value": "items sword"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings golden"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/9594.png",
+  "name": "PGMP #9594"
+}

@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background film"
+    },
+    {
+      "trait_type": "basic_body",
+      "value": "basic body yellow"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes colours"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye earnest"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair hippy2"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear dragon horn"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace which zha"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth earnest"
+    },
+    {
+      "trait_type": "items",
+      "value": "items feather fan"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings golden"
+    }
+  ],
+  "description": "PGNFT CLUB MOVIE PANDA",
+  "image": "https://static.fstnft.com/panda/img/11126.png",
+  "name": "PGMP #11126"
+}

@@ -1,0 +1,39 @@
+{
+  "attributes": [
+    {
+      "trait_type": "basic_background",
+      "value": "background_deeporange"
+    },
+    {
+      "trait_type": "weapon",
+      "value": "weapon_light"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_purple"
+    },
+    {
+      "trait_type": "horn",
+      "value": "horn_broken"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_wheat"
+    },
+    {
+      "trait_type": "basic_clothes",
+      "value": "clothes_deepred"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear_red_operamask"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_glasses"
+    }
+  ],
+  "description": "PGNFT CLUB LEGENDARY DRAGON",
+  "image": "https://static.fstnft.com/dragon/img/3158.png",
+  "name": "PCLD #3158"
+}

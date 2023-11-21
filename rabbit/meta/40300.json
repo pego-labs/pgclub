@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background tangerine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body dirt"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye serious"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth surpries"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear lotus"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings gold"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes yun gui"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace jequirity"
+    },
+    {
+      "trait_type": "items",
+      "value": "items mace"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/40300.png",
+  "name": "PCCR #40300"
+}

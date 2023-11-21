@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background skyblue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pale plum"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye basic"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth basic"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband propitious cloud"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings gold"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes monglia"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace palace"
+    },
+    {
+      "trait_type": "items",
+      "value": "items han"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/35938.png",
+  "name": "PCCR #35938"
+}

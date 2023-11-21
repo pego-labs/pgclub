@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background red"
+    },
+    {
+      "trait_type": "body",
+      "value": "body dirt"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye angry"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth conceited"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear crown ming"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings lantern"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes minggang"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace lotus"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lup"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/38456.png",
+  "name": "PCCR #38456"
+}

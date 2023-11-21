@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background deep blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pink"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye helplessly"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth overjoyed"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear lion"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earring basic"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes black"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace starry night"
+    },
+    {
+      "trait_type": "items",
+      "value": "items fire"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/31730.png",
+  "name": "PCCR #31730"
+}

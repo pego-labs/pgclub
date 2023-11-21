@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background tangerine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pale plum"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye surprise"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth hairpin"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband gold"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings gold"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes hmong"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace wealth"
+    },
+    {
+      "trait_type": "items",
+      "value": "items mace"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/11816.png",
+  "name": "PCCR #11816"
+}

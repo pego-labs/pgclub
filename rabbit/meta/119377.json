@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background deep blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body green"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye disgusted"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth madop"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear crown qin"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings lantern"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes yun gui"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace longeval lock"
+    },
+    {
+      "trait_type": "items",
+      "value": "items mala"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/119377.png",
+  "name": "PCCR #119377"
+}

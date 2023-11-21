@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background oilvine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye strict"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth dissatisfied"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear crown qin"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings gold"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes green"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace knocker"
+    },
+    {
+      "trait_type": "items",
+      "value": "items tang dao "
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/26606.png",
+  "name": "PCCR #26606"
+}

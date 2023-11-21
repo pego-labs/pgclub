@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background aqua blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body blue"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye resigned"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth unpleasant"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband dragon"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings lotus"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes monglia"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace jequirity"
+    },
+    {
+      "trait_type": "items",
+      "value": "items tang jian"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/48856.png",
+  "name": "PCCR #48856"
+}

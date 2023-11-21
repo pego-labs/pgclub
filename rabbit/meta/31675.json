@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background skyblue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye helplessly"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth conceited"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband gold"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings wealth"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes yun gui"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace spring rain"
+    },
+    {
+      "trait_type": "items",
+      "value": "items tang jian"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/31675.png",
+  "name": "PCCR #31675"
+}

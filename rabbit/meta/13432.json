@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background cyan"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pink"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye distant"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth leaf"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband propitious cloud"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings jequirity"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes tibetan"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace palace"
+    },
+    {
+      "trait_type": "items",
+      "value": "items cyber"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/13432.png",
+  "name": "PCCR #13432"
+}

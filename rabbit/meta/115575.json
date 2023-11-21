@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background sea blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pale plum"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye helplessly"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth cigarette"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear crown ming"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings spring rain"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes pale cyan"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace daw"
+    },
+    {
+      "trait_type": "items",
+      "value": "items water"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/115575.png",
+  "name": "PCCR #115575"
+}

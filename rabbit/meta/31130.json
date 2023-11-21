@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background purple"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pink"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye resigned"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth pride"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear dreadlocks"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings cyber"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes zhou"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace knocker"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lotus"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/31130.png",
+  "name": "PCCR #31130"
+}

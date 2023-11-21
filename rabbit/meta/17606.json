@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background tangerine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pale plum"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye solemn"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth pride"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear crown qin"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings palace"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes medium yellow"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace jequirity"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lotus"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/17606.png",
+  "name": "PCCR #17606"
+}

@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background cyan"
+    },
+    {
+      "trait_type": "body",
+      "value": "body green"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye solemn"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth normal"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband gold"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings jequirity"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes redlion"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace jequirity"
+    },
+    {
+      "trait_type": "items",
+      "value": "items cyber"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/106781.png",
+  "name": "PCCR #106781"
+}

@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background olive green"
+    },
+    {
+      "trait_type": "body",
+      "value": "body green"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye closed"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth snickered"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear ponytail long"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earring basic"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes light plum"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace late winter"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lup"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/44494.png",
+  "name": "PCCR #44494"
+}

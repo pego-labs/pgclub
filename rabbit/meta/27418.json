@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background oilvine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body brown"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye angry"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth pleasant"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear barrettes"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings cyber"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes powderblue"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace mongolia"
+    },
+    {
+      "trait_type": "items",
+      "value": "items fire"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/27418.png",
+  "name": "PCCR #27418"
+}

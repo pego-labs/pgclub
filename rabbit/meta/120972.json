@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background oilvine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body blue"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye solemn"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth hairpin"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear tiger"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earring basic"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes white"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace longeval lock"
+    },
+    {
+      "trait_type": "items",
+      "value": "items cyber"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/120972.png",
+  "name": "PCCR #120972"
+}

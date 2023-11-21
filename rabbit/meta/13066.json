@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background skyblue"
+    },
+    {
+      "trait_type": "body",
+      "value": "body brown"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye sharp"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth dissatisfied"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband gold"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings wealth"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes monglia"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace va"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lup"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/13066.png",
+  "name": "PCCR #13066"
+}

@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background tangerine"
+    },
+    {
+      "trait_type": "body",
+      "value": "body pale plum"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye angry"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth coin"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear crown qin"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings propitious cloud"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes redlion"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace mongolia"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lup"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/28905.png",
+  "name": "PCCR #28905"
+}

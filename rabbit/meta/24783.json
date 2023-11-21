@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background red"
+    },
+    {
+      "trait_type": "body",
+      "value": "body dirt"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye solemn"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth reluctant"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear ponytail low"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings wealth"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes black"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace mongolia"
+    },
+    {
+      "trait_type": "items",
+      "value": "items tang jian"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/24783.png",
+  "name": "PCCR #24783"
+}

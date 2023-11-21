@@ -1,0 +1,43 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background cyan"
+    },
+    {
+      "trait_type": "body",
+      "value": "body purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye solemn"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth pride"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "headwear headband dragon"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "earrings propitious cloud"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes yun gui"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "necklace late winter"
+    },
+    {
+      "trait_type": "items",
+      "value": "items lup"
+    }
+  ],
+  "description": "PGNFT CLUB CIVILIZATION RABBIT",
+  "image": "https://static.fstnft.com/rabbit/img/15139.png",
+  "name": "PCCR #15139"
+}
